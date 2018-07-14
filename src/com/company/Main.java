@@ -9,6 +9,7 @@ public class Main {
         StringLength length = (s) -> s.length();
         System.out.println(length.getLength("Aman"));
         printLambda(length);
+        System.out.println();
     }
     public static void printLambda(StringLength length){ // type inference
         System.out.println(length.getLength("AmanKumar"));
@@ -16,4 +17,5 @@ public class Main {
     interface Greetings{
         int greet2(int i,int j);
     }
+
 }
