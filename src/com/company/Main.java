@@ -10,7 +10,7 @@ public class Main {
         System.out.println(length.getLength("Aman"));
         printLambda(length);
     }
-    public static void printLambda(StringLength length){
+    public static void printLambda(StringLength length){ // type inference
         System.out.println(length.getLength("AmanKumar"));
     }
     interface Greetings{
