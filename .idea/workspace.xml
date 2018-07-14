@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4ad893-5899-4ab0-b4ad-59cb1c5292f6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/LambdaExp/com/company/UseLambda.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise1/LambdasWok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise1/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise1/Unit1Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaExp/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaExp/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaExp/com/company/StringLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaExp/com/company/StringLength.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringLength.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="143">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding>
                 <element signature="e#388#389#0" expanded="true" />
                 <element signature="e#424#425#0" expanded="true" />
@@ -29,11 +33,55 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Persons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/Persons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unit1Exercise.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/Unit1Exercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdasWok.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/LambdasWok.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RunnableExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/RunnableExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -56,8 +104,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/UseLambda.java" />
         <option value="$PROJECT_DIR$/src/com/company/RunnableExample.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/StringLength.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/Persons.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/PrintValues.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/LambdasWok.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/ComarePersons.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/ComparePersons.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exercise1/Unit1Exercise.java" />
       </list>
     </option>
   </component>
@@ -100,6 +154,13 @@
               <item name="LambdaExp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LambdaExp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdaExp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531407301302</updated>
       <workItem from="1531407346999" duration="2556000" />
-      <workItem from="1531553377866" duration="3133000" />
+      <workItem from="1531553377866" duration="6576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5689000" />
+    <option name="totallyTimeSpent" value="9132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -172,7 +233,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3227848" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.54113925" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -183,7 +244,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39873418" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -236,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/RunnableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/StringLength.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -250,13 +304,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/RunnableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="143">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding>
             <element signature="e#388#389#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/Persons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5497">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/LambdasWok.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/ComparePersons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exercise1/Unit1Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

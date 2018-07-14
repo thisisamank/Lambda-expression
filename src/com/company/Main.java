@@ -1,7 +1,10 @@
 package com.company;
 
+import com.company.Exercise1.Unit1Exercise;
+
 public class Main {
     static Greetings greetings;
+    private static Unit1Exercise exercise;
 
     public static void main(String[] args) {
         Greetings lambdaGreet = (int i,int j) -> i+j;
@@ -11,6 +14,8 @@ public class Main {
         printLambda(length);
         RunnableExample example = new RunnableExample();
         example.printRunnable();
+        exercise = new Unit1Exercise();
+        exercise.display();
     }
     public static void printLambda(StringLength length){ // type inference
         System.out.println(length.getLength("AmanKumar"));
