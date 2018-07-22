@@ -1,0 +1,3 @@
+# Lambda-expression
+this repo contains examples of lambdas using java
+I have used lambda expression to use some of the basic java OO principles in functional programming way...
